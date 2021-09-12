@@ -7,4 +7,6 @@ Go学习项目集合
 
 ## GeeCache
 
+![GeeCache](resource/geecache_1.png)
+
 
