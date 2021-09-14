@@ -5,6 +5,9 @@ Go学习项目集合
 
 资料来源: [7天用Go从零实现系列](https://geektutu.com/post/gee.html)
 
+<details>
+<summary>GeeCache 简易分布式缓存</summary>
+
 ## GeeCache
 其中GeeCache的大致结构如下
 ![GeeCache](resource/geecache_1.png)
@@ -14,4 +17,10 @@ Go学习项目集合
 
 ![singleFlight](resource/geecache2.png)
 
+</details>
+
+<details>
+<summary>Gee 简易Web框架</summary>
+
 ## Gee
+</details>
